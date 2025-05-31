@@ -22,6 +22,9 @@ Router: R1 (2911)
 
 Urządzenia końcowe: 7 PC w różnych VLAN-ach
 
+![VLAN](https://github.com/user-attachments/assets/51fa8896-f8b5-4019-8cf0-1d4b04d43eb0)
+
+
 ---
 
 ### 📡 Funkcje projektu:
