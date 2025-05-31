@@ -121,8 +121,8 @@ interface range f0/5-24
 
 ### 📎 Dodatkowe Zasoby
 
- [💾 Plik Packet Tracer – projekt (.pkt)](./komendy.txt)
+ [💾 Plik Packet Tracer – projekt (.pkt)](./VLAN_ROAS.pkt)
  
- [📄 Pełna konfiguracja](./komendy.txt)
+ [📄 Pełna konfiguracja](./komendy.md)
 
  ---
